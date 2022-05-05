@@ -20,6 +20,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   passenger
@@ -27,4 +28,4 @@ DEPENDENCIES
   tilt
 
 BUNDLED WITH
-   2.2.24
+   2.3.4
